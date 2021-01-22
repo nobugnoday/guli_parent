@@ -14,9 +14,14 @@
         <module>service-edu</module>
     </modules>
     <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>com.atguigu</groupId>-->
+<!--            <artifactId>service-bases</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
         <dependency>
-            <groupId>com.atguigu</groupId>
-            <artifactId>service-base</artifactId>
+             <groupId>com.atguigu.gulionline</groupId>
+            <artifactId>service-bases</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>

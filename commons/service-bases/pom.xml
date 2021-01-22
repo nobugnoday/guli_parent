@@ -10,10 +10,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>service-bases</artifactId>
+
+<!--    你的这个叫做service-bases，你怎么导入的是service-base  s呢？？？-->
     <dependencies>
+<!--        <dependency>-->
+<!--            <groupId>com.atguigu.gulionline</groupId>-->
+<!--            <artifactId>common-util</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
         <dependency>
+
+            <artifactId>common-utils</artifactId>
             <groupId>com.atguigu.gulionline</groupId>
-            <artifactId>common-util</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
